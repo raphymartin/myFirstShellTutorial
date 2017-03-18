@@ -8,6 +8,10 @@ you can should change the owner and make it executable witch
 and execute with 
 
 > ./sh-Tutorial.sh
+ 
  or 
  
 > sh sh-Tutorial.sh
+
+license: gpl
+https://www.gnu.org/licenses/gpl.html
