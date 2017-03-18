@@ -2,8 +2,7 @@
 
 you should change the owner and make it executable witch
 
-> chown YOURUSER:YOURUSERGROUP sh-Tutorial.sh
-> chmod +x sh-Tutorial.sh
+> chown YOURUSER:YOURUSERGROUP sh-Tutorial.sh && chmod +x sh-Tutorial.sh
 
 and execute with 
 
